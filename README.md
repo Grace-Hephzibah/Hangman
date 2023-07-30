@@ -1,9 +1,6 @@
 # Hangman
 This game lets you guess the randomly chosen secret animal name.
 
-<p> This HANGMAN PROJECT was a lot of fun to make.<br>
-I will try and add more features in the future.</p>
-
 # Start and End Look of the Hangman 
 
 <img src = "https://github.com/Grace-Hephzibah/Hangman/blob/main/Photos/11.png">  </img>
